@@ -379,29 +379,6 @@ Finalmente, ele avista uma luz fraca à distância, o brilho solitário que eman
     Sua Demo acabou                                                                                                    
           ''')
 
-
-
-
-
-
-
-
-            
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 intro()
 
 
